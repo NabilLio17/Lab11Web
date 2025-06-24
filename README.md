@@ -9,34 +9,51 @@
 
 
 
-## ADMIN
 
-- Admin Portal Berita
-
-![gambar](ss/1.png)
-
-- Add Data
+# USER
+## ARtikel
 
 ![gambar](ss/1.png)
 
-- Edit Data
+<br>
+<br>
+<hr>
 
-![gambar](ss/1.png)
+## Halaman About
+
+![gambar](ss/2.png)
+<br>
+<br>
+<hr>
+
+## Halaman Kontak
+
+![gambar](ss/3.png)
+
+<br>
+<br>
+<hr>
+
+# ADMIN
 
 
-## USER
+## Halaman Login
 
-- Halaman About
+![gambar](ss/6.png)
+<br>
+<br>
+<hr>
 
-![gambar](ss/1.png)
+## Halaman Data Artikel
 
-- Artikel
+![gambar](ss/5.png)
+<br>
+<br>
+<hr>
 
-![gambar](ss/1.png)
+## Halaman Tambah Artikel
 
-- Kontak
-
-![gambar](ss/1.png)
+![gambar](ss/4.png)
 
 
 
