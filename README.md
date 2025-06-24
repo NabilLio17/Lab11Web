@@ -13,49 +13,30 @@
 
 - Admin Portal Berita
 
-![gambar](SS/A.png)
+![gambar](ss/1.png)
 
 - Add Data
 
-![gambar](SS/A2.png)
+![gambar](ss/1.png)
 
 - Edit Data
 
-![gambar](SS/A1.png)
+![gambar](ss/1.png)
 
 
 ## USER
 
 - Halaman About
 
-![gambar](SS/U2.png)
+![gambar](ss/1.png)
 
 - Artikel
 
-![gambar](SS/U1.png)
+![gambar](ss/1.png)
 
 - Kontak
 
-![gambar](SS/U3.png)
+![gambar](ss/1.png)
 
 
-
-## Praktikum 3
-
-<b>Pertanyaan & Tugas</b>
-- Apa manfaat utama dari penggunaan View Layout dalam pengembangan aplikasi?
-
-<b>Manfaat Utama View Layout</b>
-
-- Memisahkan logika dan tampilan aplikasi (separation of concerns)
-
-- Memungkinkan penggunaan kembali kode tampilan (reusability)
-
-- Mempermudah pemeliharaan dan pengembangan aplikasi
-
-- Meningkatkan konsistensi tampilan antar halaman
-
-<b>Perbedaan View Cell dan View Biasa</b>
-
-- iew Cell adalah komponen yang dapat merender bagian tampilan tertentu secara independen dan dapat di-cache, sementara View biasa adalah template lengkap yang tidak memiliki fitur caching bawaan dan biasanya digunakan untuk halaman lengkap.
 
